@@ -12,6 +12,7 @@ public class VFXManager : MonoBehaviour
 		// spawn vfx pada posisi sesuai parameter
 		GameObject.Instantiate(vfxSource, spawnPosition, Quaternion.identity);
 	}
+	//halo saya berubah
 
 	
 }
